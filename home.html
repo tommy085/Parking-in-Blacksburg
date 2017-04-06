@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+    <head>
+    <title>Parking in Blacksburg</title>
+    </head>
 <body>
 
 <div id="map" style="width:100%;height:100vh;background:yellow"></div>
@@ -14,7 +17,8 @@
 
     var map = new google.maps.Map(document.getElementById("map"), mapOptions);
         
-    var infoWindow = new google.maps.InfoWindow({map: map});
+    //var infoWindow = new google.maps.InfoWindow({map: map});
+        
     // Try HTML5 geolocation.
     if (navigator.geolocation)
     {
@@ -23,9 +27,10 @@
             lat: position.coords.latitude,
             lng: position.coords.longitude
           };
-
-          infoWindow.setPosition(pos);
-          infoWindow.setContent('Current Location');
+            var infoWindow = new google.maps.Marker({position: pos, map: map, title: 'Current Location'});
+//          infoWindow.setPosition(pos);
+//          infoWindow.setContent('Current Location');
+            infoWindow.setMap(map);
           map.setCenter(pos);
         }, function() {
           handleLocationError(true, infoWindow, map.getCenter());
