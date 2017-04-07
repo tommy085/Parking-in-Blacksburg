@@ -13,6 +13,7 @@
     }
 
     var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+    var src = 'https://sites.google.com/site/parkingkmlfiles/mykmls/doc.kml';
         
     var infoWindow = new google.maps.InfoWindow({map: map});
     // Try HTML5 geolocation.
@@ -36,6 +37,16 @@
         // Browser doesn't support Geolocation
         handleLocationError(false, infoWindow, map.getCenter());
     }
+    var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
 }
     
 function handleLocationError(browserHasGeolocation, infoWindow, pos) {
