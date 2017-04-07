@@ -82,6 +82,7 @@ html, body {
 
 /* The side navigation menu */
 .sidenav {
+    display: inline-flex;
     height: 100%; /* 100% Full-height */
     width: 0; /* 0 width - change this with JavaScript */
     position: fixed; /* Stay in place */
@@ -92,6 +93,11 @@ html, body {
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.innerDiv {
+    margin: auto 5px;   // <-- This is responsible for vertical alignment
+    background-color: green;   
 }
 
 /* The navigation menu links */
