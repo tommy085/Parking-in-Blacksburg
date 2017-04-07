@@ -24,7 +24,6 @@
         zoom: 16,
     }
    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-   var src = 'https://sites.google.com/site/parkingkmlfiles/mykmls/doc.kml';
 if (navigator.geolocation)
     {
         navigator.geolocation.getCurrentPosition(function(position) {
@@ -46,16 +45,6 @@ if (navigator.geolocation)
         // Browser doesn't support Geolocation
         handleLocationError(false, infoWindow, map.getCenter());
     }
-    var kmlLayer = new google.maps.KmlLayer(src, {
-          suppressInfoWindows: true,
-          preserveViewport: false,
-          map: map
-        });
-        kmlLayer.addListener('click', function(event) {
-          var content = event.featureData.infoWindowHtml;
-          var testimonial = document.getElementById('capture');
-          testimonial.innerHTML = content;
-        });
   // Create the search box and link it to the UI element.
   var input = document.getElementById('pac-input');
   var searchBox = new google.maps.places.SearchBox(input);
@@ -114,6 +103,10 @@ if (navigator.geolocation)
     });
     map.fitBounds(bounds);
   });
+  var ctaLayer = new google.maps.KmlLayer({
+          url: 'https://sites.google.com/site/parkingkmlfiles/mykmls/doc.kml',
+          map: map
+        });
 }
 </script>
 
