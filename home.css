@@ -89,7 +89,7 @@ html, body {
     z-index: 1; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #111; /* Black*/
+    background-color: #FFF; /* White */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -98,6 +98,7 @@ html, body {
 .innerDiv {
     margin: auto 5px;   // <-- This is responsible for vertical alignment
     background-color: green;   
+    padding:15px;
 }
 
 /* The navigation menu links */
@@ -122,6 +123,10 @@ html, body {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+}
+
+.nav {
+  margin:20px;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
