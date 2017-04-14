@@ -96,9 +96,32 @@ html, body {
 }
 
 .innerDiv {
-    margin: auto 5px;   // <-- This is responsible for vertical alignment
-    background-color: green;   
+    margin: auto 5px;   
     padding: 15px;
+}
+
+.searchResult {
+  padding: 10px;
+}
+
+.result {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.searchDetail {
+  padding: 10px;
+}
+
+.detail {
+  padding: 10px;
+}
+
+.detail h3 {
+  margin:0;
+  padding:0;
 }
 
 /* The navigation menu links */

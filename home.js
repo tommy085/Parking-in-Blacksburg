@@ -6,6 +6,7 @@
 // parameter when you first load the API. For example:
 // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
 
+
 function initAutocomplete() {
   var map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: -33.8688, lng: 151.2195},
@@ -75,8 +76,8 @@ function initAutocomplete() {
 
 /* Set the width of the side navigation to 250px and the left margin of the page content to 250px and add a black background color to body */
 function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-    document.getElementById("main").style.marginLeft = "250px";
+    document.getElementById("mySidenav").style.width = "300px";
+    document.getElementById("main").style.marginLeft = "300px";
     document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
 }
 
@@ -85,4 +86,18 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft = "0";
     document.body.style.backgroundColor = "white";
+}
+
+// function performSearch() {
+//     document.getElementById("mySidenav").innerHTML = "Hello World";
+// }
+
+function showResult() {
+    document.getElementById("searchResult").style.display = "";
+    document.getElementById("innerDiv").style.display = "none";
+}
+
+function showDetail() {
+  document.getElementById("searchResult").style.display = "none";
+  document.getElementById("searchDetail").style.display = "";
 }
