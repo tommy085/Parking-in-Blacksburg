@@ -95,9 +95,12 @@ function closeNav() {
 function showResult() {
     document.getElementById("searchResult").style.display = "";
     document.getElementById("innerDiv").style.display = "none";
+    document.getElementById("searchDetail").style.display = "none";
 }
 
 function showDetail() {
+    document.getElementById("searchDetail").style.display = "";
+    document.getElementById("innerDiv").style.display = "none";
   document.getElementById("searchResult").style.display = "none";
-  document.getElementById("searchDetail").style.display = "";
+
 }
