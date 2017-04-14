@@ -11,6 +11,7 @@
     <script src="home.js"></script>   
   </head>
 <body>
+<input id="pac-input" class="controls" type="text" placeholder="Search Box">
 <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <div id="searchResult" class="searchResult" style="display:none;">
@@ -146,7 +147,7 @@ if (navigator.geolocation)
     map.fitBounds(bounds);
   });
   var ctaLayer = new google.maps.KmlLayer({
-          url: 'https://sites.google.com/site/parkingkmlfiles/mykmls/doc.kml',
+          url: 'https://sites.google.com/site/parkingkmlfiles/mykmls/parkingLots.kml',
           map: map
         });
   var ctaLayer2 = new google.maps.KmlLayer({
