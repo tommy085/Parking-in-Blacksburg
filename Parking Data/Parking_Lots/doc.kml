@@ -10,41 +10,60 @@
     <Placemark id="ID_00000">
       <name>P5</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P5</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>0</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P5</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Squires' Parking Lot [Otey St]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Squire's Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>F/S 7:00am - 5:00pm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Yes</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -53,43 +72,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00001">
-      <name>P6</name>
+      <name>Annex Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P6</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>1</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P6</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Architecture Annex Parking Lot [Otey St]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Annex Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>F/S 7:00am - 5:00pm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking: </td>
+
+<td>No</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -98,43 +136,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00002">
-      <name>P4</name>
+      <name>Farmer's Marking Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P4</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>2</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P4</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Farmer's Market Parking Lot [100 Draper Rd SW]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Farmer's Marking Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Yes (Except Wed 12:30pm - 8:00pm & Sat 6:00am - 3:00pm)</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -143,43 +200,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00003">
-      <name>P3</name>
+      <name>Church St Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P3</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>3</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P3</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Church St Parking Lot [119 Church St NE]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Church St Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Yes</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -188,43 +264,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00004">
-      <name>P2</name>
+      <name>Progress St Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P2</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>4</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P2</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Progress St Parking Lot [265 Progress St NW]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Progress St Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Yes</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -233,43 +328,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00005">
-      <name>P7</name>
+      <name>Kent Square Parking Garage</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P7</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>5</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P7</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Kent Square Parking Garage [207 Draper Rd NW]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kent Square Parking Garage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Various Public Parking Rates</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -278,43 +392,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00006">
-      <name>P8</name>
+      <name>Municipal Building Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P8</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>6</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P8</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Municipal Building Parking Lot [300 Draper Rd NW]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Municipal Building Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>Free Parking after 5:00pm & Weekends</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking</td>
+
+<td>N/A</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -323,43 +456,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00007">
-      <name>P9</name>
+      <name>Motor Co. Building Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P9</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>7</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P9</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Motor Co. Building Parking Lot [100 MIller Ave]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Motor Co. Building Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>Free Parking after 5:00pm & Weekends</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>N/A</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -368,43 +520,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00008">
-      <name>P10</name>
+      <name>Blacksburg Library Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P10</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>8</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P10</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Blacksburg Library Parking Lot [101 Clay St SW]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Blacksburg Library Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>Free Parking after Library Hours</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>No</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -413,43 +584,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00009">
-      <name>P11</name>
+      <name>Harrel St Parking Lot</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P11</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>9</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P11</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Harrel St Parking Lot [407 Harrel St]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Harrel St Parking Lot</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>Free after 6:00pm & Weekends</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>Yes</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -458,43 +648,62 @@
       </Point>
     </Placemark>
     <Placemark id="ID_00010">
-      <name>P1</name>
+      <name>North End Center Garage</name>
       <Snippet></Snippet>
-      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<head>
-<META http-equiv="Content-Type" content="text/html">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-</head>
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-<td>P1</td>
-</tr>
-<tr>
-<td>
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-<tr>
-<td>FID</td>
-<td>10</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Type</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Label</td>
-<td>P1</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>Descriptio</td>
-<td>Turner St Parking Garage [209 Gilbert St]</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</body>
-</html>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>North End Center Garage</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Pass:</td>
+
+<td>F/S 7:00am - 5:00pm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Meter Parking:</td>
+
+<td>No</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
 ]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
@@ -505,7 +714,7 @@
   </Folder>
   <Style id="IconStyle00">
     <IconStyle>
-      <Icon><href>Layer0_Symbol_12518ba0_311.png</href></Icon>
+      <Icon><href>parkingLot.png</href></Icon>
       <scale>1.000000</scale>
     </IconStyle>
     <LabelStyle>
